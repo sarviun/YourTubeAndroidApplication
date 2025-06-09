@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YourTube</string>
+    <string name="app_intro_title">Welcome to YourTube</string>
+    <string name="app_intro_description">To see your subscribed channels, please sign in with your account</string>
+</resources>
